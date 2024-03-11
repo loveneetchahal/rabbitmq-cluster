@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Sample.Application.Consumer
+build_property.ProjectDir = c:\Users\LoveneetChahal\Projects\LoveneetChahal\rabbitmq-cluster\microservices\Sample.Application.Consumer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
